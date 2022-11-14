@@ -1,0 +1,11 @@
+
+*.vsidx
+*.lock
+.vs/UploadService/v17/.suo
+*.dll
+*.pdb
+ClassLibrary1/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+*.cache
+*.txt
+FileUploader/ClassLibrary1/Properties/AssemblyInfo.cs
+ClassLibrary1/Properties/AssemblyInfo.cs
